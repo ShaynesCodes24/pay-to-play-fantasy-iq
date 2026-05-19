@@ -34,6 +34,12 @@ If Vercel accepts that name, the live website URL will be:
 https://fantasy-iq-paid.vercel.app/
 ```
 
+Stripe accepted business website URL:
+
+```text
+https://fantasy-iq-paid.vercel.app/FantasyIQ/
+```
+
 Paid dashboard URL shape:
 
 ```text

@@ -10,7 +10,7 @@
 - Decide where customer records will live.
 - Confirm your Vercel account can deploy one project per customer.
 - Test one dashboard using your own public ESPN league.
-- Use the root Vercel URL as Stripe's business website.
+- Use `https://fantasy-iq-paid.vercel.app/FantasyIQ/` as Stripe's business website if Stripe accepts it.
 
 ## For Each Customer
 
