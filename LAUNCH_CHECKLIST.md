@@ -6,6 +6,7 @@
 - Use `shayneholladay@gmail.com` as the customer support email.
 - Replace `PAYMENT_LINK_PLACEHOLDER` after the real payment link is created.
 - Use `fantasy-iq-paid` as the Vercel project name.
+- Set Vercel Output Directory to `public`.
 - Decide where customer records will live.
 - Confirm your Vercel account can deploy one project per customer.
 - Test one dashboard using your own public ESPN league.

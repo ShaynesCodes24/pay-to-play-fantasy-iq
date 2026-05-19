@@ -40,6 +40,16 @@ Paid dashboard URL shape:
 https://<customer-project>.vercel.app/FantasyIQ/
 ```
 
+Vercel build settings:
+
+```text
+Framework Preset: Other
+Root Directory: ./
+Build Command: leave empty
+Install Command: leave empty/default
+Output Directory: public
+```
+
 ## Customer Promise
 
 Use this positioning for the paid offer:
