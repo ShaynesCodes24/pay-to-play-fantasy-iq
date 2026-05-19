@@ -25,13 +25,13 @@ https://<customer-project>.vercel.app/
 Recommended Vercel project name:
 
 ```text
-fantasyiq
+fantasy-iq-paid
 ```
 
 If Vercel accepts that name, the live website URL will be:
 
 ```text
-https://fantasyiq.vercel.app/
+https://fantasy-iq-paid.vercel.app/
 ```
 
 Paid dashboard URL shape:

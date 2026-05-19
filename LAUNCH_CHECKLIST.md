@@ -5,7 +5,7 @@
 - Create a $25/year payment link.
 - Use `shayneholladay@gmail.com` as the customer support email.
 - Replace `PAYMENT_LINK_PLACEHOLDER` after the real payment link is created.
-- Use `fantasyiq` as the Vercel project name if available.
+- Use `fantasy-iq-paid` as the Vercel project name.
 - Decide where customer records will live.
 - Confirm your Vercel account can deploy one project per customer.
 - Test one dashboard using your own public ESPN league.
