@@ -40,23 +40,14 @@ Stripe accepted business website URL:
 https://fantasy-iq-paid.vercel.app/FantasyIQ/
 ```
 
-Working public fallback website URL:
-
-```text
-https://shaynescodes24.github.io/pay-to-play-fantasy-iq/
-```
-
-Working public fallback dashboard URL:
-
-```text
-https://shaynescodes24.github.io/pay-to-play-fantasy-iq/FantasyIQ/
-```
-
 Paid dashboard URL shape:
 
 ```text
 https://<customer-project>.vercel.app/FantasyIQ/
 ```
+
+The repo also keeps a root-level static copy of the site files so Vercel can
+serve the website even if it ignores the `public` or `dist` output settings.
 
 Vercel build settings:
 
