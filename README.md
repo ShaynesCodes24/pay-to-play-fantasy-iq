@@ -40,6 +40,18 @@ Stripe accepted business website URL:
 https://fantasy-iq-paid.vercel.app/FantasyIQ/
 ```
 
+Working public fallback website URL:
+
+```text
+https://shaynescodes24.github.io/fantasy-iq-site/
+```
+
+Working public fallback dashboard URL:
+
+```text
+https://shaynescodes24.github.io/fantasy-iq-site/FantasyIQ/
+```
+
 Paid dashboard URL shape:
 
 ```text
