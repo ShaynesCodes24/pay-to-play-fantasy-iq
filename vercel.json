@@ -1,6 +1,8 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "outputDirectory": "public",
+  "buildCommand": "node scripts/build_static.js",
+  "installCommand": "",
+  "outputDirectory": "dist",
   "redirects": [
     {
       "source": "/FantasyIQ",

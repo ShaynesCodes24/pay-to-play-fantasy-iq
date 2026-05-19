@@ -51,9 +51,9 @@ Vercel build settings:
 ```text
 Framework Preset: Other
 Root Directory: ./
-Build Command: leave empty
-Install Command: leave empty/default
-Output Directory: public
+Build Command: node scripts/build_static.js
+Install Command: empty
+Output Directory: dist
 ```
 
 ## Customer Promise
