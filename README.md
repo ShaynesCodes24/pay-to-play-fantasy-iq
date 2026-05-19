@@ -43,13 +43,13 @@ https://fantasy-iq-paid.vercel.app/FantasyIQ/
 Working public fallback website URL:
 
 ```text
-https://shaynescodes24.github.io/fantasy-iq-site/
+https://shaynescodes24.github.io/pay-to-play-fantasy-iq/
 ```
 
 Working public fallback dashboard URL:
 
 ```text
-https://shaynescodes24.github.io/fantasy-iq-site/FantasyIQ/
+https://shaynescodes24.github.io/pay-to-play-fantasy-iq/FantasyIQ/
 ```
 
 Paid dashboard URL shape:

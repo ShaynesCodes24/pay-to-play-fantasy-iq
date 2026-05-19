@@ -12,7 +12,7 @@
 - Confirm your Vercel account can deploy one project per customer.
 - Test one dashboard using your own public ESPN league.
 - Use `https://fantasy-iq-paid.vercel.app/FantasyIQ/` as Stripe's business website if Stripe accepts it.
-- If Vercel is not reachable, use `https://shaynescodes24.github.io/fantasy-iq-site/` for Stripe.
+- If Vercel is not reachable, use `https://shaynescodes24.github.io/pay-to-play-fantasy-iq/` for Stripe.
 
 ## For Each Customer
 
