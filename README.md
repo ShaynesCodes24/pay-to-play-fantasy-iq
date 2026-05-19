@@ -22,6 +22,18 @@ Website URL shape:
 https://<customer-project>.vercel.app/
 ```
 
+Recommended Vercel project name:
+
+```text
+fantasyiq
+```
+
+If Vercel accepts that name, the live website URL will be:
+
+```text
+https://fantasyiq.vercel.app/
+```
+
 Paid dashboard URL shape:
 
 ```text
@@ -76,7 +88,7 @@ public/FantasyIQ/config.js
 Common fields:
 
 ```js
-siteName: "Fantasy IQ",
+siteName: "fantasyiq",
 leagueName: "Customer League Name",
 leagueSubtitle: "ESPN PPR Redraft",
 logoUrl: "./assets/league-logo.jpeg",

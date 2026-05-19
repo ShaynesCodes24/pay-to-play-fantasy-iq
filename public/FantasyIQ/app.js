@@ -90,7 +90,7 @@ let selectedBoardPlayerKey = null;
 const LIVE_SYNC_INTERVAL_MS = 8000;
 
 function applyAppConfig() {
-  const siteName = appConfig.siteName || "Fantasy IQ";
+  const siteName = appConfig.siteName || "fantasyiq";
   document.title = siteName;
 
   const brandTitle = document.querySelector(".brand-lockup h1");
